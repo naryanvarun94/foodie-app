@@ -1,0 +1,8 @@
+.content_mycart{
+    position: absolute;
+    height: 100%;
+    width: calc(100% - 240px);
+    left: 240px;
+    overflow:auto;
+    margin-bottom: 50px;
+}

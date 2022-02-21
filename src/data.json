@@ -1,0 +1,22 @@
+{
+    "user": [
+      {
+        "title": "Pizza",
+        "desc": "Exotic Pizza with fresh toppings",
+        "price": "₹695.26",
+        "id": 1
+      },
+      {
+        "title": "Non-Veg Pizza",
+        "desc": "Exotic Pizza with fresh toppings",
+        "price": "₹895.26",
+        "id": 2
+      },
+      {
+        "title": "Veg Burger",
+        "desc": "Exotic Pizza with fresh toppings",
+        "price": "₹695.26",
+        "id": 3
+      }
+    ]
+  }
